@@ -1,0 +1,23 @@
+.title {
+    text-align: center;
+}
+
+.iota_form, .loading {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading {
+    text-align: center;
+}
+
+.post {
+    margin: 0 auto;
+    padding: 1em;
+    margin-top: 2em;
+}
+
+.text-center {
+    text-align: center;
+    color: gray;
+}
