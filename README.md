@@ -1,7 +1,7 @@
 # Twitter Clone, IOTA Messenger
 
 ## Background
-- Goal was to get experience with AWS EC2. Hosted here, unless I've stopped paying for the instance: http://twitter.shmkane
+- Goal was to get experience with AWS EC2. Hosted here, unless I've stopped paying for the instance: http://twitter.shmkane.com
 
 ## Details
 - Dynamic express server connected to MonogoDB via Monk
