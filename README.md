@@ -7,6 +7,7 @@
 - Dynamic express server connected to MonogoDB via Monk
 - Allows multi-user posting & sharing of messages and assets via html.
 - Simple server-side endpoints to GET DELETE, and **POST** **posts** (🤣)
+- Barebones HTML/CSS/JS Front end, fetches posts from server and injects html nodes into dom
 - Rate limited API with "bad words" filter (because my friends couldn't keep it civil)
 - Original name was Idiot messenger, for aforementioned friends, but through a typo, IOTA Messenger was born.
 - Hosted on Amazon EC2 instance
